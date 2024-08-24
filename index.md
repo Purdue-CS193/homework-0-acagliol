@@ -1,5 +1,10 @@
 ## Alejo's First CS193 HW
 
+- My TA seems to be really smart
+- No tests
+- No quizzes
+- Purely for my learning
+  
 ```markdown
 
 
@@ -8,10 +13,7 @@
 ### I remember using markdown for a cs assignment back in hs
 
 # Bulleted items
-- My TA seems to be really smart
-- No tests
-- No quizzes
-- Purely for my learning    
+   
 
 ```
 
